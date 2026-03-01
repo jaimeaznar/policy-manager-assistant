@@ -1,0 +1,375 @@
+ZURICH INSURANCE GROUP
+HEALTH INSURANCE POLICY
+Policy Number: ZH-HEALTH-2024-001
+Effective Date: 1 January 2025
+Expiry Date: 31 December 2025
+Policyholder: [Policyholder Name]
+Plan Type: Premier Health
+Underwritten by: Zurich Insurance plc
+
+================================================================================
+SECTION 1: COVERAGE
+================================================================================
+
+1.1 Inpatient Treatment (Hospital)
+
+This policy covers the full cost of medically necessary inpatient treatment including:
+- Hospital accommodation in a private or semi-private room
+- Surgeon, anaesthetist, and specialist fees
+- Operating theatre charges and intensive care
+- Diagnostic tests and imaging (X-ray, MRI, CT scan, ultrasound, PET scan)
+- Prescribed drugs, medicines, and dressings administered during the stay
+- Physiotherapy and rehabilitation during the stay
+- Prosthetic devices and implants required as part of surgery
+- Parent accommodation when the patient is a child under 18 (up to EUR 200 per night)
+
+Annual limit for inpatient treatment: EUR 1,500,000 per insured person.
+
+There is no per-condition limit for inpatient treatment. Pre-authorisation is required for all planned (non-emergency) admissions. Emergency admissions must be notified to Zurich within 48 hours.
+
+1.2 Outpatient Treatment
+
+This policy covers outpatient consultations, diagnostics, and treatment including:
+- General practitioner consultations: covered in full
+- Specialist consultations (referral required): covered in full
+- Diagnostic tests and imaging: covered in full
+- Prescribed medications: 80% reimbursement up to EUR 5,000 per year
+- Physiotherapy: up to 20 sessions per condition per year (referral required)
+- Mental health consultations: up to 30 sessions per year with a qualified psychiatrist or psychologist
+- Speech therapy: up to 15 sessions per year (referral required)
+- Chiropractic and osteopathic treatment: up to 15 sessions per year, EUR 80 maximum per session
+- Allergy testing and immunotherapy: covered in full
+- Home nursing care following hospitalisation: up to 30 days per year
+
+Annual limit for outpatient treatment: EUR 50,000 per insured person.
+
+1.3 Dental Coverage
+
+This policy includes dental coverage as follows:
+
+Routine dental: EUR 1,500 per year per insured person
+- Examinations, check-ups, and cleanings (two per year)
+- Basic fillings and extractions
+- Dental X-rays
+- Periodontal (gum) treatment
+
+Major dental: EUR 3,000 per year per insured person
+- Crowns, bridges, and veneers
+- Root canal treatment
+- Dentures (partial and full)
+- Dental implants (maximum 2 per year, pre-authorisation required)
+- Orthodontic treatment for dependants under 18: EUR 2,000 lifetime limit per child
+
+A 6-month waiting period applies to major dental treatment from the policy start date. This waiting period is waived for policyholders transferring from a previous health insurance policy with equivalent dental cover and no break in coverage exceeding 30 days.
+
+1.4 Optical Coverage
+
+This policy includes optical coverage as follows:
+- Eye examinations: one per year, covered in full
+- Prescription glasses: EUR 400 per insured person every 24 months
+- Contact lenses: EUR 300 per insured person every 24 months
+- Laser eye surgery (LASIK/LASEK): EUR 2,000 lifetime limit per insured person (pre-authorisation required)
+
+Glasses and contact lenses allowance cannot be combined. If you claim for glasses, the contact lens allowance is not available in the same 24-month period, and vice versa.
+
+1.5 Maternity Coverage
+
+This policy covers maternity-related expenses including:
+- Antenatal consultations, scans, and blood tests: covered in full
+- Hospital delivery (natural birth): covered in full as inpatient treatment
+- Caesarean section (medically necessary): covered in full as inpatient treatment
+- Elective caesarean section: covered up to EUR 5,000
+- Midwife fees: covered in full
+- Postnatal care (up to 6 weeks after delivery): covered in full
+- Complications of pregnancy: covered in full as inpatient treatment
+- Newborn care for the first 30 days: covered under the mother's policy
+
+A 12-month waiting period applies to maternity coverage from the policy start date. This waiting period is waived for policyholders transferring from a previous policy with maternity cover and no break in coverage exceeding 30 days.
+
+1.6 Preventive Care and Wellness
+
+This policy includes the following preventive care benefits at no additional cost:
+- Annual health check-up including blood panel, cholesterol, blood pressure, BMI assessment
+- Cancer screenings: mammogram (women over 40, annually), cervical smear (women over 25, every 3 years), PSA test (men over 50, annually), colonoscopy (over 50, every 5 years)
+- Vaccinations: flu (annually), travel vaccinations (as recommended by WHO for destination), HPV (dependants aged 12-18)
+- Health and wellness programmes: access to Zurich's digital wellness platform including fitness tracking, nutrition guidance, and mental health resources
+
+Annual limit for preventive care: EUR 2,000 per insured person.
+
+1.7 Emergency Medical Treatment Abroad
+
+This policy covers emergency medical treatment when travelling outside your country of residence:
+- Emergency inpatient treatment: covered in full for up to 90 days per trip
+- Emergency outpatient treatment: covered in full
+- Emergency dental treatment (pain relief only): EUR 500 per trip
+- Medical evacuation to the nearest suitable medical facility: covered in full
+- Repatriation to your country of residence: covered in full when medically necessary
+- Repatriation of mortal remains: covered in full
+
+Emergency treatment abroad is covered worldwide excluding countries subject to travel sanctions by the EU or Switzerland.
+
+1.8 Mental Health Coverage
+
+This policy recognises the importance of mental health and provides comprehensive coverage:
+- Psychiatric inpatient treatment: covered in full as inpatient treatment (pre-authorisation required)
+- Outpatient psychiatry: up to 30 sessions per year
+- Outpatient psychology: up to 30 sessions per year
+- Crisis intervention and emergency psychiatric care: covered in full
+- Psychiatric rehabilitation: up to 60 days per year (pre-authorisation required)
+- Substance abuse treatment (alcohol and drug rehabilitation): one course of treatment per lifetime, up to 90 days inpatient or 12 months outpatient (pre-authorisation required)
+
+Self-referral is permitted for the first 4 mental health sessions. Continued treatment beyond 4 sessions requires a referral from a general practitioner or psychiatrist and a treatment plan submitted to Zurich.
+
+================================================================================
+SECTION 2: EXCLUSIONS
+================================================================================
+
+2.1 General Exclusions
+
+This policy does not cover:
+
+- Treatment that is not medically necessary as determined by Zurich's medical advisors
+- Cosmetic or aesthetic surgery or treatment unless required to restore function or appearance following an accident or illness covered by this policy
+- Experimental or unproven treatments not recognised by mainstream medical practice or not approved by the relevant national health authority
+- Treatment arising from self-inflicted injury or attempted suicide (mental health support following such events IS covered under Section 1.8)
+- Treatment arising from participation in professional sports, extreme sports (base jumping, free solo climbing, cave diving), or any sport where the insured receives payment
+- Treatment arising from war, invasion, act of foreign enemy, hostilities, civil war, rebellion, or terrorism
+- Treatment arising from nuclear, chemical, or biological contamination
+- Treatment for injuries sustained while under the influence of alcohol or non-prescribed drugs, except where the treatment is for addiction under Section 1.8
+- Treatment provided by a family member or person living in the same household
+- Long-term nursing care or residential care exceeding 90 days in a 12-month period
+- Treatment relating to gender reassignment surgery (hormone therapy for diagnosed gender dysphoria IS covered)
+
+2.2 Pre-Existing Conditions
+
+Pre-existing conditions are medical conditions for which you have received treatment, medication, advice, or experienced symptoms in the 5 years prior to the policy start date.
+
+Pre-existing conditions are subject to a 24-month waiting period. During this period, treatment for pre-existing conditions is not covered. After the waiting period, pre-existing conditions are covered on the same terms as any other condition, subject to no loading or exclusion.
+
+If you are transferring from a previous health insurance policy with continuous cover, Zurich will credit the time served under your previous policy towards the pre-existing condition waiting period, provided there is no break in coverage exceeding 30 days.
+
+2.3 Dental Exclusions
+
+The following dental treatments are excluded:
+- Purely cosmetic dental work including teeth whitening and cosmetic veneers (functional veneers are covered)
+- Treatment for conditions arising from failure to maintain reasonable dental hygiene
+- Replacement of existing dental work that is still functional
+- Dental treatment required as a result of deliberate self-harm
+- Dental implants exceeding 2 per year or without pre-authorisation
+
+2.4 Fertility Treatment Exclusions
+
+The following fertility treatments are excluded:
+- In vitro fertilisation (IVF) and related procedures (egg retrieval, embryo transfer, ICSI)
+- Surrogacy costs
+- Donor egg or sperm procurement costs
+- Fertility drugs unless prescribed for a diagnosed medical condition other than infertility
+
+Diagnostic investigation of infertility IS covered as outpatient treatment.
+
+2.5 Waiting Periods Summary
+
+The following waiting periods apply from the policy start date:
+- General coverage: no waiting period
+- Maternity: 12 months
+- Major dental: 6 months
+- Pre-existing conditions: 24 months
+- Mental health inpatient: 3 months
+- Substance abuse treatment: 12 months
+
+Waiting periods are waived for emergencies and accidents.
+
+================================================================================
+SECTION 3: DEDUCTIBLES
+================================================================================
+
+3.1 Standard Deductibles
+
+The following deductibles apply to this policy:
+
+- Inpatient treatment: EUR 0 per admission (no deductible)
+- Outpatient treatment: EUR 30 per visit (waived for preventive care)
+- Prescribed medications: 20% co-payment up to EUR 5,000 annual cap, then 100% covered
+- Dental (routine): EUR 0
+- Dental (major): EUR 200 per treatment
+- Optical: EUR 0
+- Emergency treatment abroad: EUR 0
+
+3.2 Annual Out-of-Pocket Maximum
+
+Your maximum out-of-pocket expenditure (deductibles plus co-payments) is capped at EUR 2,000 per insured person per policy year. Once this cap is reached, all further covered treatment is reimbursed at 100% for the remainder of the policy year.
+
+For family policies, the family out-of-pocket maximum is EUR 4,000 per policy year, regardless of the number of insured family members.
+
+3.3 Voluntary Deductible
+
+You have selected a voluntary annual deductible of EUR [amount]. This is the amount you pay before any benefits become payable in each policy year. A higher voluntary deductible reduces your annual premium.
+
+The voluntary deductible applies to all treatment categories combined (not per category). Preventive care benefits are not subject to the voluntary deductible.
+
+================================================================================
+SECTION 4: CLAIMS PROCESS
+================================================================================
+
+4.1 How to Make a Claim
+
+Zurich offers three methods for submitting claims:
+
+Method 1 — Direct Settlement (preferred): Present your Zurich health insurance card at any network hospital or clinic. Zurich will settle the bill directly with the provider. You pay only the applicable deductible or co-payment at the point of service.
+
+Method 2 — Online Submission: Upload receipts, invoices, and medical reports through the Zurich Health app or www.zurich.com/healthclaims. Reimbursement is processed within 5 business days for straightforward claims.
+
+Method 3 — Postal Submission: Send original receipts and the completed claim form to: Zurich Health Claims, PO Box 4002, 8085 Zurich, Switzerland. Reimbursement is processed within 10 business days.
+
+4.2 Pre-Authorisation
+
+Pre-authorisation is required for the following treatments:
+- All planned (non-emergency) hospital admissions
+- Dental implants
+- Laser eye surgery
+- MRI and PET scans (when requested on an outpatient basis)
+- Psychiatric inpatient admission
+- Substance abuse treatment
+- Any single treatment expected to cost more than EUR 5,000
+
+To request pre-authorisation, call Zurich Health on +41 44 625 25 60 or submit a request through the Zurich Health app. A decision is provided within 2 business days for routine requests and within 5 business days for complex cases.
+
+Emergency treatment never requires pre-authorisation. Notify Zurich within 48 hours of emergency admission.
+
+Failure to obtain pre-authorisation for non-emergency treatment may result in a 20% reduction in the reimbursement amount.
+
+4.3 Required Documentation
+
+For all claims, provide:
+- Completed claim form (available online or in the Zurich Health app)
+- Itemised invoice showing the provider's name, date of treatment, diagnosis, and breakdown of charges
+- Referral letter from your GP (where specialist referral is required)
+- Prescription (for medication claims)
+- Pre-authorisation reference number (where applicable)
+
+For hospital claims, additionally provide:
+- Discharge summary
+- Surgeon's report (for surgical procedures)
+- Anaesthetist's report (if applicable)
+
+4.4 Reimbursement
+
+Reimbursement is paid directly to your registered bank account. Zurich reimburses covered expenses minus any applicable deductible or co-payment.
+
+If a claim is partially covered (e.g., treatment exceeding sub-limits), Zurich will provide a detailed explanation of benefits (EOB) showing the calculation.
+
+Disputed claims may be reviewed by Zurich's medical board. You have the right to appeal any claim decision within 60 days of receiving the EOB. Appeals must include additional medical evidence or documentation supporting your case.
+
+4.5 Coordination of Benefits
+
+If you are covered by more than one health insurance policy, or if part of your treatment is covered by a statutory (public) health insurance system, Zurich will coordinate benefits so that the total reimbursement does not exceed the actual cost of treatment. Zurich typically acts as the secondary payer, covering costs not reimbursed by the primary insurer.
+
+================================================================================
+SECTION 5: RENEWAL
+================================================================================
+
+5.1 Policy Renewal
+
+This policy renews annually. Zurich will send a renewal notice at least 30 days before the expiry date, including:
+- Updated premium for the next policy year
+- Any changes to benefits, limits, or terms
+- Summary of claims made during the current policy year
+
+5.2 Automatic Renewal
+
+This policy renews automatically on the expiry date unless you notify Zurich of your intention not to renew at least 30 days before the expiry date. Continuous renewal guarantees that your coverage is not interrupted and that benefits such as reduced waiting periods and accumulated no claims discounts are preserved.
+
+5.3 Premium Adjustments
+
+Your renewal premium may be adjusted based on:
+- Your age band at the time of renewal (premiums increase with age)
+- Claims experience of the overall risk pool (not your individual claims)
+- Medical cost inflation in your country of residence
+- Changes to benefits or coverage limits
+- Changes in applicable taxes
+
+Zurich guarantees that individual claims history will not be used to increase your personal premium or to impose individual exclusions at renewal. This is a community-rated product.
+
+5.4 No Claims Benefit
+
+If you make no claims (excluding preventive care) during a policy year, you receive a no claims benefit:
+- 1 claim-free year: 5% premium discount
+- 2 consecutive claim-free years: 10% premium discount
+- 3 or more consecutive claim-free years: 15% premium discount (maximum)
+
+Any claim (excluding preventive care and windscreen-equivalent minor claims under EUR 100) resets the no claims benefit to 0%.
+
+5.5 Lifetime Renewal Guarantee
+
+Zurich guarantees to renew this policy for as long as you continue to pay the premium, regardless of your age, health status, or claims history. Zurich will not cancel your policy or refuse to renew it based on your individual health condition or claims.
+
+The only circumstances under which Zurich may not renew this policy are:
+- Non-payment of premium
+- Fraud or material misrepresentation
+- Discontinuation of this product from the Zurich range (in which case, an equivalent replacement product will be offered)
+
+5.6 Adding or Removing Family Members
+
+You may add or remove family members at renewal or during the policy year following a qualifying life event:
+- Birth or adoption of a child (must be notified within 30 days)
+- Marriage or entering a civil partnership
+- Divorce or dissolution of civil partnership
+- Death of an insured family member
+- Dependant reaching the age limit (children are covered until age 18, or age 25 if in full-time education)
+
+Newborns are covered from birth with no waiting periods, provided the mother was insured under this policy for at least 12 months before the birth.
+
+5.7 Cancellation
+
+You may cancel this policy at any time by giving 30 days' written notice. During the 14-day cooling-off period, a full refund is provided. After the cooling-off period, a pro-rata refund is calculated for the unused portion of the policy year, less an administration fee of EUR 50.
+
+Before cancelling, consider that re-joining or purchasing a new health insurance policy may result in new waiting periods for pre-existing conditions and loss of accumulated no claims benefits.
+
+================================================================================
+SECTION 6: GENERAL CONDITIONS
+================================================================================
+
+6.1 Medical Necessity
+
+All treatment must be medically necessary to be covered under this policy. Medically necessary means treatment that is:
+- Required for the diagnosis or treatment of an illness, injury, or condition
+- Consistent with the diagnosis and accepted medical practice
+- Not primarily for the convenience of the patient or provider
+- The most appropriate level of care that can be safely provided
+
+Zurich's medical advisors may review any claim to determine medical necessity. You have the right to request an independent medical opinion if you disagree with Zurich's assessment.
+
+6.2 Choice of Provider
+
+You may choose any licensed medical provider worldwide. However, using a Zurich network provider offers:
+- Direct settlement (no upfront payment)
+- Pre-negotiated rates (reducing or eliminating out-of-pocket costs)
+- Streamlined pre-authorisation
+- Quality assurance and accreditation standards
+
+A directory of network providers is available in the Zurich Health app and at www.zurich.com/healthnetwork.
+
+6.3 Disclosure
+
+You must disclose fully and accurately all medical history, pre-existing conditions, current medications, and lifestyle factors (e.g., smoking status) when applying for this policy or making changes. Failure to disclose material information may result in claims being denied or the policy being voided.
+
+6.4 Subrogation
+
+If your medical treatment results from an incident caused by a third party (e.g., a road traffic accident), Zurich retains the right to recover costs from the responsible party or their insurer. You must cooperate with Zurich in pursuing any such recovery.
+
+6.5 Data Protection
+
+Zurich processes your personal and medical data in accordance with applicable data protection laws including the General Data Protection Regulation (GDPR) and the Swiss Federal Act on Data Protection. Your medical data is shared only with:
+- Zurich's claims and medical assessment teams
+- Medical providers involved in your treatment (with your consent)
+- Reinsurers (on an anonymised basis)
+
+You have the right to access, correct, or request deletion of your personal data. Contact Zurich's Data Protection Officer at dpo@zurich.com.
+
+6.6 Governing Law
+
+This policy is governed by the laws of Switzerland. Any disputes shall be subject to the exclusive jurisdiction of the courts of Zurich.
+
+================================================================================
+END OF POLICY DOCUMENT
+================================================================================
